@@ -13,7 +13,7 @@ setup(
     name="Faulty-Detection",
     version="0.0.1",
     author="Devesh",
-    author_email="devesh@pm.me",
+    author_email="deveshrathod15@gmail.com",
     install_requirements= get_requirements('requirements.txt'),
     packages=find_packages(),
 )
