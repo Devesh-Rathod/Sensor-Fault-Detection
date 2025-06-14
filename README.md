@@ -1,1 +1,1 @@
-## Sensor Fault Detection ##
+## Machine Learning Sensor Project
